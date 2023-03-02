@@ -1,3 +1,4 @@
 destination: docs
 #Build Settings
+title: SIA(SAUBER INSTITUTION AGENCY)
 remote_theme: pages-themes/architect@v0.2.0
