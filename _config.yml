@@ -1,1 +1,3 @@
 destination: docs
+#Build Settings
+theme: architect
